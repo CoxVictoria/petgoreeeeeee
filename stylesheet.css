@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(215, 255, 252);
+    background-color: rgb(176, 255, 193);
 }
 
 body {
@@ -11,33 +11,33 @@ body {
     margin-bottom: 1%;
     border-width: 10px;
     border-style: solid;
-    border-color: rgb(255, 183, 173);
+    border-color: rgb(255, 199, 46);
 }
 
 h1 {
-    color: rgb(255, 204, 213);
+    color: rgb(255, 209, 140);
     font-size: 50px;
 }
 
 h2 {
     font-size: 40px;
-    color: rgb(255, 204, 213);
+    color: rgb(255, 209, 140);
 }
 
 h3 {
     font-size: 30px;
-    color: rgb(255, 204, 213);
+    color: rgb(255, 209, 140);
 }
 
 a {
     font-size: 18px;
-    color: rgb(255, 180, 194); 
+    color: rgb(255, 209, 140); 
 }
 
 img {
     border-width: 6px;
     border-style: solid;
-    border-color: rgb(255, 180, 194);
+    border-color: rgb(255, 209, 140);
     display: inline;
     height: 245px;
     width: 285px;
@@ -45,5 +45,10 @@ img {
 
 p {
     font-size: 23px;
-    color: rgb(255, 180, 194);
+    color: rgb(255, 209, 140);
+}
+
+#foot {
+   font-size: 10px; 
+   color: black
 }
