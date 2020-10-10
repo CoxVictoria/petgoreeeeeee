@@ -1,0 +1,49 @@
+html {
+    background-color: rgb(215, 255, 252);
+}
+
+body {
+    background-color: white;
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(255, 183, 173);
+}
+
+h1 {
+    color: rgb(255, 204, 213);
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(255, 204, 213);
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(255, 204, 213);
+}
+
+a {
+    font-size: 18px;
+    color: rgb(255, 180, 194); 
+}
+
+img {
+    border-width: 6px;
+    border-style: solid;
+    border-color: rgb(255, 180, 194);
+    display: inline;
+    height: 245px;
+    width: 285px;
+}
+
+p {
+    font-size: 23px;
+    color: rgb(255, 180, 194);
+}
